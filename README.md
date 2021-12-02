@@ -1,4 +1,4 @@
-<h1> Hi,I am Sadhana Bhagat !</h1>
+<h1> Hi there, i'm Sadhana Bhagat 👋</h1>
 
 - 🔭 I’m currently working on Android
 - 🌱 I’m currently learning kotlin
